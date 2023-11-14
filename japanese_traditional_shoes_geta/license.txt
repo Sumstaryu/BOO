@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese Traditional Shoes (Geta)
+* source:	https://sketchfab.com/3d-models/japanese-traditional-shoes-geta-5ddd5cafaebc4f3094d27c84dd8d643d
+* author:	Bunty Somaiya (https://sketchfab.com/BuntySomaiya)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese Traditional Shoes (Geta)" (https://sketchfab.com/3d-models/japanese-traditional-shoes-geta-5ddd5cafaebc4f3094d27c84dd8d643d) by Bunty Somaiya (https://sketchfab.com/BuntySomaiya) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
