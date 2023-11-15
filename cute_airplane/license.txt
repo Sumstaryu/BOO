@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cute Airplane
+* source:	https://sketchfab.com/3d-models/cute-airplane-a59735414d104a61a37fe45dea9ddaa6
+* author:	redchristian (https://sketchfab.com/redchristian)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cute Airplane" (https://sketchfab.com/3d-models/cute-airplane-a59735414d104a61a37fe45dea9ddaa6) by redchristian (https://sketchfab.com/redchristian) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
